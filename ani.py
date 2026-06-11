@@ -1,3 +1,7 @@
+import streamlit as st
+import pandas as pd
+import numpy as np
+import altair as alt
 # === DATA LOADING: WORLD CUP RESULTS ===
 # My research question:
 # "Did teams that traveled farther to Qatar 2022 perform worse?"
