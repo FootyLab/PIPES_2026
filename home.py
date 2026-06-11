@@ -3,6 +3,8 @@ import pandas as pd
 
 st.title("Welcome to our 2026 UTK PIPES Soccer Data Science App!")
 
+st.image("./pics/footylab_pipes_2026.png",width=600)
+
 st.header("Soccer... and Data... *and* Science?")
 st.write(
     "One of the biggest soccer clubs in the world, Liverpool FC, hired "
