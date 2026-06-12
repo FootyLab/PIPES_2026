@@ -3,7 +3,7 @@ import pandas as pd
 
 st.title("Welcome to our 2026 UTK PIPES Soccer Data Science App!")
 
-st.image("./pics/footylab_pipes_2026.png",width=600)
+st.image("./pics/2026_pipes_campers.png",width=600)
 
 st.header("Soccer... and Data... *and* Science?")
 st.write(
@@ -36,9 +36,9 @@ st.write(
 
 st.divider()
 st.subheader("Explore our projects!")
+st.page_link("ani.py", label="Ani: World Cup Travel Distance", icon="✈️")
 st.page_link("olivia.py", label="Olivia: The Moneyball Project", icon="⚾")
 st.page_link("lydia.py", label="Lydia: The Goalkeepers' Union", icon="🧤")
-st.page_link("ani.py", label="Ani: World Cup Travel Distance", icon="✈️")
 st.page_link("annakatelynn.py", label="Annakatelynn: NFL Combine Secrets", icon="🏈")
 
 st.divider()
