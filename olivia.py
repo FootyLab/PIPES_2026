@@ -38,10 +38,10 @@ if st.button("just press it....."):
 if st.button("We <3 Morgan Wallen"):
     st.image("https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2025-10/251001-Morgan-Wallen-ch-1338-58f709.jpg")
     st.text("Don't follow in his footsteps and get arrested, it would not be smart.")
-st.header("My Calculator")
-a  = st.number_input("the first number")
-b  = st.number_input("the second number")
-st.write(a + b)
+#st.header("My Calculator")
+#a  = st.number_input("the first number")
+#b  = st.number_input("the second number")
+#st.write(a + b)
 #import time
 #with st.empty():
 #    for seconds in range(10):
