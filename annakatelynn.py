@@ -38,12 +38,12 @@ st.write("6+7")
     
 st.write("6+7")
     
-st.header("My calculator")
+#st.header("My calculator")
     
-a = st.number_input("your first number")
-b = st.number_input("your second number")
+#a = st.number_input("your first number")
+#b = st.number_input("your second number")
 
-st.write(a+b)
+#st.write(a+b)
 
 # === NFL COMBINE: STRENGTH MEETS DATA ===
 # My research question:
