@@ -13,9 +13,9 @@ st.set_page_config(
 )
 
 home = st.Page("home.py", title="Home", icon="🏠")
+ani = st.Page("ani.py", title="Ani's App", icon="✈️")
 olivia = st.Page("olivia.py", title="Olivia's App", icon="⚾")
 lydia = st.Page("lydia.py", title="Lydia's App", icon="🧤")
-ani = st.Page("ani.py", title="Ani's App", icon="✈️")
 annakatelynn = st.Page("annakatelynn.py", title="Annakatelynn's App", icon="🏈")
 
 pg = st.navigation([home, olivia, lydia, ani, annakatelynn])
